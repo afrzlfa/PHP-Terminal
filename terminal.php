@@ -119,7 +119,7 @@ if (isset($_POST['cmnd'])) {
 <head>
 
     <title>R&D ICWR - Terminal</title>
-    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0" /> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <style>
 
