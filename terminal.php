@@ -149,6 +149,13 @@ if (isset($_POST['cmnd'])) {
 
         }
 
+        pre {
+
+            white-space: pre-wrap;
+            word-break: break-word;
+
+        }
+
         .res {
 
             overflow: auto;
