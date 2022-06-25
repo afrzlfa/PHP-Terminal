@@ -126,7 +126,7 @@ if (isset($_POST['cmnd'])) {
         * {
 
             background: black;
-            color: green;
+            color: lime;
 
         }
 
